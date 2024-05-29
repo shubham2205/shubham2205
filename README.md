@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **shubhamdharpure22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b1s5iY9M4xqrnnECfkSx8coM7iTPXuyv/view?usp=drivesdk](https://drive.google.com/file/d/1b1s5iY9M4xqrnnECfkSx8coM7iTPXuyv/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1b1s5iY9M4xqrnnECfkSx8coM7iTPXuyv/view?usp=drivesdk](https://shorturl.at/6xn4q)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

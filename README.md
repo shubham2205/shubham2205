@@ -1,6 +1,10 @@
 ## Hi there 👋
+
+![MasterHead](https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png)
 <h1 align="center">Hi 👋, I'm Shubham Dharpure</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7605.jpg"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham2205&label=Profile%20views&color=0e75b6&style=flat" alt="shubham2205" /> </p>
 

@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/su_am_05" target="blank"><img src="https://img.shields.io/twitter/follow/su_am_05?logo=twitter&style=for-the-badge" alt="su_am_05" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://shubham-p22.netlify.app/](https://shubham-p22.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://shubham-p22.netlify.app/)
 
-- 💬 Ask me about **HTML,Css,Js,React,Redux Toolkit,Tailwind Css,Bootstrap,Material UI**
+- 💬 Ask me about **HTML, CSS, JS, React, Redux Toolkit, Tailwind CSS, Bootstrap, Material UI**
 
 - 📫 How to reach me **shubhamdharpure22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b1s5iY9M4xqrnnECfkSx8coM7iTPXuyv/view?usp=drivesdk](https://shorturl.at/6xn4q)
+- 📄 Know about my experiences [Download Resume](https://shorturl.at/6xn4q)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
